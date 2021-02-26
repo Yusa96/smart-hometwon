@@ -1,0 +1,51 @@
+.container {
+  font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+}
+
+/* ここから下がボタンのCSS　*/
+.btn-icon {
+  display: inline-block;
+  max-width: 180px;
+  text-align: center;
+  background-color: #FFF;
+  font-size: 16px;
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 18px 6px 18px;
+  border-radius: 40px; /*丸み*/
+  
+  border: double 3px #668ad8; /*枠*/
+
+
+/* 
+　 padding 上 右 下 左　
+   border-radius 丸み
+
+   border: solid 一重 #668ad8
+   border: double 二重 #8EB8FF
+			*/
+
+/* □表示　*/
+  position: relative;
+}
+
+.btn-icon:hover {
+  opacity: 0.7;
+}
+
+
+
+*/
+.btn-icon:before {
+  font-family: "FontAwesome";
+  content: "☑";/* 好きなフォントアイコンを　*/
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  margin-top: -8px;
+}
+*/
+
