@@ -2,11 +2,11 @@
   color: #000077; /*文字・アイコン色*/
   border-radius: 7px;/*角丸に*/
   display: inline-block;
-  height: 50px;/*高さ*/
-  width: 80px;/*幅*/
+  height: 100px;/*高さ*/
+  width: 160px;/*幅*/
   text-align: center;/*中身を中央寄せ*/
-  font-size: 25px;/*文字のサイズ*/
-  line-height: 50px;/*高さと合わせる*/
+  font-size: 50px;/*文字のサイズ*/
+  line-height: 100px;/*高さと合わせる*/
   background: #FFF;
   overflow: hidden;/*はみ出た部分を隠す*/
   text-decoration:none;/*下線は消す*/
@@ -14,7 +14,7 @@
 
 .btn-social-long-dlsite .fa-dlsite {
   text-shadow: 2px 2px 2px #8EB8FF;
-  font-size: 25px;
+  font-size: 50px;
 }
 
 /*
