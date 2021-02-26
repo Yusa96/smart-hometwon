@@ -5,7 +5,7 @@
   height: 100px;/*高さ*/
   width: 200px;/*幅*/
   text-align: center;/*中身を中央寄せ*/
-  font-size: 90px;/*文字のサイズ*/
+  font-size: 80px;/*文字のサイズ*/
   line-height: 100px;/*高さと合わせる*/
   background: #1da1f3;
   overflow: hidden;/*はみ出た部分を隠す*/
