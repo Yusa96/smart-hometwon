@@ -7,14 +7,14 @@
 /* ここから下がボタンのCSS　*/
 .btn-icon {
   display: inline-block;
-  max-width: 360px;
+  max-width: 720px;
   text-align: center;
   background-color: #FFF;
-  font-size: 32px;
+  font-size: 64px;
   color: #FFF;
   text-decoration: none;
   font-weight: bold;
-  padding: 12px 36px 12px 36px;
+  padding: 24px 72px 24px 72px;
   border-radius: 40px; /*丸み*/
   
   border: double 3px #668ad8; /*枠*/
