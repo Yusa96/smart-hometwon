@@ -2,7 +2,7 @@ footer {
 font-family: verdana;
   display: flex;
   width: 100%;
-  height: 100px;
+  height: 200px;
   background-color: #24444F;
   align-items: center;
 }
