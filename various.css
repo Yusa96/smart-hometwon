@@ -1,0 +1,13 @@
+html {
+   background-color: #000033;  /* 両端部分に付ける背景色（画像がある場合無しでもいい） */
+   background-image: url("../../img/back.jpg"); /* 両端部分に付ける背景画像 */
+   background-size: cover;                  /*全画面 */
+   background-attachment: fixed;          /* 固定 (重要) */
+
+}
+body {
+   margin: 25px 17%;    /* 外側の余白を、上下は25で左右は画面横幅の17％に */
+   border : 2px solid #000033;  /*枠線 線幅 線の種類 色*/
+   background-color: #EEEEEE;   /*本文部分の背景色（htmlよりcss優先になる）*/
+   padding: 0px;    /*内側の余白を消す（念のため表記）*/
+}
